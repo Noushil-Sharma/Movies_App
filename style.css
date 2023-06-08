@@ -5,7 +5,8 @@
 }
 
 body {
-    background-color: #22254b;
+    background-image: linear-gradient(rgb(255, 115, 0), yellow, blue);
+    background-size: cover;
     font-family: "Poppins", sans-serif;
     margin: 0;
 }
